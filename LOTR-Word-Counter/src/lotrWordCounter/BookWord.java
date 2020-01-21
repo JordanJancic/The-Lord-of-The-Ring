@@ -1,9 +1,7 @@
-package lab3_jordanjancic.pkg000269500;
+package lotrWordCounter;
 
 /**
  * @author Jordan Jancic, 000269500
- * Lab 3
- * Professor: Mark Yendt
  * Date Completed: October 27, 2019
  *
  * 

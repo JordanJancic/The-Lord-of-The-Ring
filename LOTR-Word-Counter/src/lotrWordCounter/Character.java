@@ -1,4 +1,4 @@
-package lab3_jordanjancic.pkg000269500;
+package lotrWordCounter;
 
 import java.text.DecimalFormat;
 
